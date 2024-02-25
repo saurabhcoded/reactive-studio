@@ -2,7 +2,7 @@
 # Reactive Studio
 
 **Description:**
-Reactive Studio is a powerful designer tool that allows users to create interactive and dynamic user interfaces with ease. Leveraging cutting-edge technologies and libraries, this tool provides a seamless development experience for designing modern web applications.
+React Graphics Renderer is an open-source React setup tailored for projects focused on creating and rendering graphics. This project provides a solid foundation for building interactive and visually engaging applications by integrating powerful tools and libraries for seamless graphic design and rendering.
 
 **Installation:**
 ```bash
