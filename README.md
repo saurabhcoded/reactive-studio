@@ -1,4 +1,3 @@
-markdown
 # Reactive Studio
 
 **Description:**
