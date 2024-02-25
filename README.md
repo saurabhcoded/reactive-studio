@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Reactive Studio
 
 **Description:**
@@ -7,7 +7,6 @@ React Graphics Renderer is an open-source React setup tailored for projects focu
 **Installation:**
 ```bash
 npm install
-```
 
 **Usage:**
 ```bash
