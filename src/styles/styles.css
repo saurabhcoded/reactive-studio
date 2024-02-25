@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+:root {
+  --headingfont: "Roboto", sans-serif;
+  --subtitlefont: "IBM Plex Sans", sans-serif;
+}
+[data-theme="dark"] {
+}
+* {
+  user-select: none;
+  font-family: var(--subtitlefont);
+}
+html {
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--headingfont);
+}
+
+.react-colorful__saturation-pointer {
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 0 !important;
+}
+
+.react-colorful__hue {
+  height: 20px !important;
+  margin-top: 0.5rem;
+  border-radius: 0 !important;
+}
+
+.react-colorful__pointer .react-colorful__hue-pointer {
+  width: 20px;
+  height: 20px;
+  border-radius: 0 !important;
+}
+
+.react-colorful__hue .react-colorful__hue-pointer {
+  width: 20px;
+  height: 20px;
+  border-radius: 0 !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}

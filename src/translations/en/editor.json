@@ -1,0 +1,15 @@
+{
+    "panels": {
+        "panelsList": {
+            "templates": "Templates",
+            "customize": "Customize",
+            "elements": "Elements",
+            "backgrounds": "Background",
+            "images": "Images",
+            "uploads": "Uploads",
+            "text": "Text",
+            "graphics": "Graphics",
+            "layers": "Layers"
+        }
+    }
+}
